@@ -1,0 +1,16 @@
+## 참고 자료
+
+1. [Deep Learning's Most Important Ideas - A Brief Historical Review](https://dennybritz.com/blog/deep-learning-most-important-ideas/)
+2. [Time Series Nested Cross-Validation](https://towardsdatascience.com/time-series-nested-cross-validation-76adba623eb9)
+3. [Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
+4. [Gradient Descent Optimization Algorithms 정리](http://shuuki4.github.io/deep%20learning/2016/05/20/Gradient-Descent-Algorithm-Overview.html)
+5. [RAdam](https://github.com/LiyuanLucasLiu/RAdam)
+6. [AdamP](https://github.com/clovaai/AdamP)
+7. [Convolution Networks](https://cs231n.github.io/convolutional-networks/)
+8. [Transformer 1](https://nlpinkorean.github.io/illustrated-transformer/)
+9. [Transformer 2](https://medium.com/@adityathiruvengadam/transformer-architecture-attention-is-all-you-need-aeccd9f50d09)
+10. [Positional Encoding](https://inmoonlight.github.io/2020/01/26/Positional-Encoding/)
+11. [Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
+12. [LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+13. [DeepGenerativeModels](https://deepgenerativemodels.github.io/)
+14. [추천한다는 그 논문](https://arxiv.org/abs/2001.08361?context=stat)
